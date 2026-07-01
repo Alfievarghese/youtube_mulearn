@@ -2,6 +2,7 @@
   "name": "youtube_mulearn",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://alfievarghese.github.io/youtube_mulearn/",
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1",
