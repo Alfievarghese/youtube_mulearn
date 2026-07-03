@@ -2,11 +2,11 @@
   "name": "youtube_mulearn",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://alfievarghese.github.io/youtube_mulearn/",
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "build": "vite build",
+    "build:pages": "vite build --base=/youtube_mulearn/",
     "preview": "vite preview --host 127.0.0.1"
   },
   "dependencies": {

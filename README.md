@@ -35,6 +35,11 @@ Open the local URL printed by Vite.
 npm run build
 ```
 
+## Hosting
+
+- Vercel: use the default `npm run build`
+- GitHub Pages: use `npm run build:pages`
+
 ## Project Note
 
 The task asked for a YouTube clone using React.js and Material UI. This project keeps that core requirement while pushing the visual direction beyond a generic red-and-white clone.
